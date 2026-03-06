@@ -4,6 +4,10 @@
 一个基于HarmonyOS ArkTS V2开发的新闻资讯类应用。
 <img width="650" height="750" alt="image" src="https://github.com/user-attachments/assets/791d4e4b-20db-4862-86a7-be04650befc3" />
 
+
+https://github.com/user-attachments/assets/7d85400d-6572-4e29-ba98-cf512ab58a9e
+
+
 ## 项目简介
 
 **今日洞察**是一个现代化的移动应用，为用户提供丰富的新闻资讯、视频内容和个性化推荐服务。项目采用HarmonyOS最新技术栈，实现了高性能、响应式的用户体验。
