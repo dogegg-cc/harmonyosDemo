@@ -1,0 +1,12 @@
+{
+  "routerMap": [
+    {
+      "name": "WebPage",
+      "pageSourceFile": "src/main/ets/pages/Web/WebPage.ets",
+      "buildFunction": "WebPageBuilder",
+      "data": {
+        "src" : ""
+      }
+    }
+  ]
+}

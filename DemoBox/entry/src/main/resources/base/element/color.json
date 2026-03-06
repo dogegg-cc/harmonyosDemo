@@ -1,0 +1,44 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "tab_item_text_default",
+      "value": "#4B5563"
+    },
+    {
+      "name": "tab_item_text_selected",
+      "value": "#FF6B6B"
+    },
+    {
+      "name": "common_gray_border",
+      "value": "#E5E7EB"
+    },
+    {
+      "name": "common_gray_background",
+      "value": "#F3F4F6"
+    },
+    {
+      "name": "common_white_background",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "common_black_font",
+      "value": "#000000"
+    },
+    {
+      "name": "common_gray_font",
+      "value": "#4B5563"
+    },
+    {
+      "name": "common_white_font",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "common_gray_menu_font",
+      "value": "#6B7280"
+    }
+  ]
+}
